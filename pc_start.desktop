@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=desktop_start
+Type=Application
+Path="script location"
+Icon=/home/pi/"picture.jpg"
+Exec=sh "shell script.sh"
+Terminal=true
